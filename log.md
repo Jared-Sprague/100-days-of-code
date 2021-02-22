@@ -16,7 +16,7 @@
 
 **Link to work:** [Commits](https://github.com/ScriptaGames/zorbio/commits?author=Jared-Sprague&since=2021-02-05&until=2021-02-06)
 
-### Day 2: February 7, 2021
+### Day 3: February 7, 2021
 
 **Today's Progress**: Working on containerizing Zorbio
 
@@ -24,7 +24,7 @@
 
 **Link to work:** 
 
-### Day 2: February 8, 2021
+### Day 4: February 8, 2021
 
 **Today's Progress**: Working on containerizing and deploing Zorbio to OpenShift
 
@@ -32,7 +32,7 @@
 
 **Link to work:** [Commits](https://github.com/ScriptaGames/zorbio/commits?author=Jared-Sprague&since=2021-02-07&until=2021-02-08)
 
-### Day 2: February 9, 2021
+### Day 5: February 9, 2021
 
 **Today's Progress**: Working on containerizing and deploing Zorbio to OpenShift
 
