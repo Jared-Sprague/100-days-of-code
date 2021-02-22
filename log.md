@@ -96,7 +96,7 @@
 
 **Link to work:** [Commits](https://github.com/redhat-gamedev/srt-web-client/commits?author=Jared-Sprague&since=2021-02-16&until=2021-02-16)
 
-### Day 13: February 17, 2021
+### Day 13: February 16, 2021
 
 **Today's Progress**: MAJOR refactoring of the srt-web-client into a good foundation
 
@@ -104,10 +104,44 @@
 
 **Link to work:** [Commits](https://github.com/redhat-gamedev/srt-web-client/commits?author=Jared-Sprague&since=2021-02-17&until=2021-02-17)
 
-### Day 14: February 18, 2021
+### Day 14: February 17, 2021
 
 **Today's Progress**: Twitch Stream about the web client Demo!
 
 **Thoughts:** Proud I got it to work intime
 
 **Link to work:** [Twitch Stream](https://www.twitch.tv/videos/917888035)
+
+
+### Day 15: February 18, 2021
+
+**Today's Progress**: Fixed client movent command sending
+
+**Thoughts:** So cool to see the ship actually moving!
+
+**Link to work:** [PR](https://github.com/redhat-gamedev/srt-web-client/pull/4)
+
+### Day 16: February 19, 2021
+
+**Today's Progress**: Fix player scale in the srt-web-client
+
+**Thoughts:** Nice to see it coming together
+
+**Link to work:** [commits](https://github.com/redhat-gamedev/srt-web-client/commits?author=Jared-Sprague&since=2021-02-19&until=2021-02-20)
+
+### Day 17: February 20, 2021
+
+**Today's Progress**: Going through all my github repos and fixing all the security vulnerabilities
+
+**Thoughts:** Man I have let github go, I needed some major tiding up
+
+**Link to work:** [Example fixes same on all projects](https://github.com/openjamio/open-jam-page/commits?author=Jared-Sprague&since=2021-02-20&until=2021-02-21)
+
+### Day 18: February 21, 2021
+
+**Today's Progress**: Got the C++ srt-game-server building!!! Update it's README with the steps for Fedora 33.  Also added a config.yaml file and yaml file parsing for config.  Also fixed the config strategy for the server to allow any config to be overriden with command line arguments, defined in config.yaml, or default value in that order.
+
+**Thoughts:** Crazy getting back int C++! I felt like I was back in collage in the mid 90's.  We really take for granted the ease of installing dependancies via a central repository like npm.  In C++ there is nothing like that, and everything has to be compliled to the right architecture that you're running on.
+
+**Link to work:** [commits]()
+
