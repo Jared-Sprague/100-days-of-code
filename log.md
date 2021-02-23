@@ -143,5 +143,13 @@
 
 **Thoughts:** Crazy getting back int C++! I felt like I was back in collage in the mid 90's.  We really take for granted the ease of installing dependancies via a central repository like npm.  In C++ there is nothing like that, and everything has to be compliled to the right architecture that you're running on.
 
-**Link to work:** [commits]()
+**Link to work:** [commits](https://github.com/redhat-gamedev/srt-game-server/commits/config-file)
+
+### Day 19: February 22, 2021
+
+**Today's Progress**: Finished my first pull request for the srt-game-server! C++ style
+
+**Thoughts:** Felt really good to get this working after 17 years of not touching any C++ code.  I viewed this as a challenge and was able to beat it.
+
+**Link to work:** [Pull Request](https://github.com/redhat-gamedev/srt-game-server/pull/14)
 
