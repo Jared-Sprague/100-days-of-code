@@ -153,3 +153,11 @@
 
 **Link to work:** [Pull Request](https://github.com/redhat-gamedev/srt-game-server/pull/14)
 
+### Day 20: February 23, 2021
+
+**Today's Progress**: Fixed up a 3 year old Phaser3 base project to use for LD in April
+
+**Thoughts:** I found a nice minimalist Phaser3 foundation project with a gulp build with babel.  I had to do some work to get the build working with the latests versions of dependancies.
+
+**Link to work:** [Pull Request](https://github.com/ignacioxd/phaser3-es6-gulp/pull/1)
+
