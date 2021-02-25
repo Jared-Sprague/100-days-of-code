@@ -161,3 +161,11 @@
 
 **Link to work:** [Pull Request](https://github.com/ignacioxd/phaser3-es6-gulp/pull/1)
 
+### Day 21: February 24, 2021
+
+**Today's Progress**: Made requested changes in the SRT Game Server PR
+
+**Thoughts:** I decided to not argue of the proposed changes except the initiziation list on C++ constructors which seem totally unessiary for non-const non-inherited member variables.
+
+**Link to work:** [Pull Request](https://github.com/redhat-gamedev/srt-game-server/pull/14)
+
