@@ -169,3 +169,11 @@
 
 **Link to work:** [Pull Request](https://github.com/redhat-gamedev/srt-game-server/pull/14)
 
+### Day 22: February 25, 2021
+
+**Today's Progress**: Got a workflow build completed for Ludum Dare
+
+**Thoughts:** Added ESlint, and browser-sycnc.  Modified the gulp tasks to build+watch+serve and rebuild and reload when files change.
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/phaser3-es6-gulp/commit/996c3f490ce1ed397e76ee355a77898a83bdf587)
+
