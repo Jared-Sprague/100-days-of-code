@@ -177,3 +177,19 @@
 
 **Link to work:** [Commit](https://github.com/Jared-Sprague/phaser3-es6-gulp/commit/996c3f490ce1ed397e76ee355a77898a83bdf587)
 
+### Day 23: February 26, 2021
+
+**Today's Progress**: Separated build targets, one for production and one for development.  The produciton target minifies and includs minified phaser.min.js, also does not include the source maps.  The Dev target does the opposit things.  It does not minify and includes the non-minified phaser, and includes source maps. for easy debugging.
+
+**Thoughts:** This should make debugging during development much easier in the browser.
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/phaser3-foundation/commits/main)
+
+### Day 24: February 27, 2021
+
+**Today's Progress**: Added environment specific configuration switching based on building for dev or prod.
+
+**Thoughts:** I searched and searched for a npm package that would help with browser based environment variables when using broserify.  I found envify but I couldn't figure out how to use it.  Same with dotenv.  In the end I just took a simple approach and set a global variable called ENV at build time to either 'dev' or 'prod' then switch config based on that variable.
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/phaser3-foundation/commits/main)
+
