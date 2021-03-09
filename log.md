@@ -193,3 +193,77 @@
 
 **Link to work:** [Commit](https://github.com/Jared-Sprague/phaser3-foundation/commits/main)
 
+### Day 25: February 28, 2021
+
+**Today's Progress**: Day 1 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+
+### Day 26: March 1, 2021
+
+**Today's Progress**: Day 2 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+### Day 27: March 2, 2021
+
+**Today's Progress**: Day 3 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+### Day 28: March 3, 2021
+
+**Today's Progress**: Day 4 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+### Day 29: March 4, 2021
+
+**Today's Progress**: Day 5 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+### Day 30: March 5, 2021
+
+**Today's Progress**: Day 6 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+### Day 31: March 6, 2021
+
+**Today's Progress**: Day 7 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+### Day 32: March 7, 2021
+
+**Today's Progress**: Day 8 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+### Day 33: March 8, 2021
+
+**Today's Progress**: Day 9 of WIP creating my new website at jaredsprague.com
+
+**Thoughts:** Creating a brand new personal website using Eleventy as the site generator
+
+**Link to work:** [Commit](https://github.com/Jared-Sprague/jaredsprague-site-11ty/commits/main)
+
+
